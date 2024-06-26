@@ -22,8 +22,7 @@ After writing the contract, compile it without errors and deploy it in the selec
 
 Make sure your contract is secure to prevent vulnerabilities. Provide documentation for your token to help other developers understand its functionality.
 
-To run the code, visit [Remix Ethereum.](https://remix.ethereum.org/) In the default workspace, create a new file with your token name, write the contract code, and follow the steps to compile and deploy it. After deploying, test the mint and burn functions, and verify the token details to ensure proper functionality.
-
+To run the code, visit [Remix Ethereum.](https://remix.ethereum.org/) In the default workspace, In this site, you can go under default_workspace and open the file project.sol to see the code and run it.
 # Author
 Name- Shikha Jumta Contact- jumtashikha000@gmail.com
 
